@@ -1,0 +1,2 @@
+data/input/original_data.csv filter=lfs diff=lfs merge=lfs -text
+data/input/cleaned_data.parquet/*.parquet filter=lfs diff=lfs merge=lfs -text
